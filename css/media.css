@@ -1,0 +1,130 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 0px) and (max-width: 575.98px) {
+  /* header start */
+  .menu ul li a {
+    text-align: right;
+    margin: 0 0 !important;
+  }
+  .c_nav {
+    margin-left: 158px !important;
+  }
+  .c_nav2 {
+    margin-left: 84px !important;
+  }
+  .c_nav3 {
+    margin-left: 8px !important;
+  }
+
+  /* header end */
+  /* service start */
+  .service {
+    padding-bottom: 0;
+  }
+  .s_btn {
+    margin-bottom: 50px;
+  }
+  /* service end */
+  /* my work start */
+  .c_prev {
+    left: 189px;
+  }
+  .w_img {
+    margin-bottom: 30px;
+  }
+  /* my work end */
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+  /* header start */
+  .menu ul li a {
+    text-align: right;
+    margin: 0 0 !important;
+  }
+  .c_nav {
+    margin-left: 378px !important;
+  }
+  .c_nav2 {
+    margin-left: 354px !important;
+  }
+  .c_nav3 {
+    margin-left: 288px !important;
+  }
+  /* header end */
+  .b_img {
+    width: 501px !important;
+    height: 330px !important;
+  }
+  /* service start */
+  .service {
+    padding-bottom: 0;
+  }
+  .s_btn {
+    margin-bottom: 50px;
+  }
+  /* service end */
+  /* my work start */
+  .c_prev {
+    left: 409px;
+  }
+  .w_img {
+    height: 274px;
+    width: 518px;
+    margin-bottom: 30px;
+  }
+  /* my work end */
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+  /* header start */
+  .menu ul li a {
+    text-align: right;
+    margin: 0 0 !important;
+  }
+  .c_nav {
+    margin-left: 558px !important;
+  }
+  .c_nav2 {
+    margin-left: 534px !important;
+  }
+  .c_nav3 {
+    margin-left: 458px !important;
+  }
+  /* header end */
+  /* my work start */
+  .c_prev {
+    left: 590px;
+  }
+  /* .w_img {
+    height: 374px;
+    width: 775px;
+    margin-bottom: 30px;
+  } */
+  /* my work end */
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .c_navl {
+    margin-left: 558px !important;
+  }
+  /* my work start */
+  .c_prev {
+    left: 829px;
+  }
+  /* my work end */
+}
+
+/* x-Large devices (larger desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  /* my work start */
+  .c_prev {
+    left: 1009px;
+  }
+  /* my work end */
+}
+
+/* Extra Extra large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+}

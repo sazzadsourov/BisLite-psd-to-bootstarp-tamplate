@@ -1,0 +1,160 @@
+/* common css start */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Lato-Regular;
+  font-size: 16px;
+  font-weight: 400;
+  color: #000000;
+}
+@font-face {
+  font-family: Lato-Regular;
+  src: url(../Lato/Lato-Regular.ttf);
+}
+/* common css end */
+/* header start */
+header {
+  background-color: #e8ebf1 !important;
+  padding: 15px 0;
+}
+.c_logo {
+}
+.menu {
+}
+
+.menu ul li a {
+  margin-right: 40px !important;
+  font-weight: 700 !important;
+  color: #000000 !important;
+  padding: 10px 15px !important;
+  transition: 0.3s;
+}
+.menu ul li:last-child a {
+  margin-right: 0 !important;
+}
+.menu ul li a:hover {
+  background-color: #fff;
+  border-top: 5px solid #28adc6;
+  color: #28adc6 !important;
+}
+.c_drop {
+  border-bottom: 5px solid #28adc6;
+}
+/* header end */
+
+/* slider start */
+.slider {
+  padding-top: 20px;
+  padding-bottom: 40px;
+  background-color: #81e4ed;
+}
+.c_ind [data-bs-target] {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
+.c_ind {
+  bottom: -53px;
+}
+
+.b_img {
+  width: 1280px !important;
+  height: 500px !important;
+}
+
+/* slider end */
+/* service start */
+.service {
+  padding-top: 70px;
+  padding-bottom: 50px;
+  background-color: #e8ebf0;
+}
+.s_text {
+  position: relative;
+}
+.s_text i {
+  margin-right: 13px;
+  border-radius: 50%;
+  padding: 12px;
+  background-color: #2aacc8;
+}
+.s_text h2 {
+  font-size: 15px;
+  font-weight: 700;
+  position: absolute;
+  top: 13px;
+}
+.s_text p {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #363636;
+}
+.s_btn {
+  position: relative;
+}
+.s_btn button {
+  color: #36b0ca !important;
+  font-size: 15px;
+  position: absolute;
+}
+.s_btn button:hover {
+  color: black !important;
+}
+.s_btn i {
+  margin-right: 8px;
+}
+/* service end */
+/* my work start */
+.my_work {
+  padding-bottom: 25px;
+}
+.work_text {
+  padding-top: 20px;
+  position: relative;
+}
+.work_text i {
+  position: absolute;
+  top: 26px;
+  font-size: 27px;
+  left: 7px;
+  color: #2aacc8;
+}
+.work_text h2 {
+  margin-left: 40px;
+}
+.w_img {
+  height: 274px;
+  width: 330px;
+}
+.but {
+  position: relative;
+}
+
+.c_prev {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  left: 1179px;
+
+  opacity: 1;
+}
+.c_prev,
+.c_next {
+  top: 13px;
+}
+.c_prev_i {
+  color: black !important;
+  font-size: 30px;
+  background-color: #81e4ed;
+  padding: 3px 12px;
+  border-radius: 50%;
+  opacity: 1 !important;
+}
+.c_next {
+  height: 50px;
+  width: 50px;
+  right: -4px;
+  opacity: 1;
+}
+/* my work end */
