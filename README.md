@@ -1,2 +1,2 @@
-# BisLite-psd-to-bootstarp-tamplate
-this is a psd to bootstarp tamplate and full responsive .
+https://sazzadsourov.github.io/BisLite-psd-to-bootstarp-tamplate/
+
