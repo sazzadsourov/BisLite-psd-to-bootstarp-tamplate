@@ -32,6 +32,100 @@
     margin-bottom: 30px;
   }
   /* my work end */
+  /*Testimonial start */
+  .t_text {
+    margin-bottom: 40px;
+  }
+  .t_icon {
+    margin-bottom: 2px;
+  }
+  .t_text p {
+    line-height: 24px;
+    margin-bottom: 10px !important;
+  }
+  .t_img {
+    margin-left: 0px;
+  }
+  .img_container {
+    margin-left: 76px;
+  }
+  .cl_icon {
+    margin-left: 14%;
+    margin-bottom: 12px;
+  }
+  .img_group {
+    margin-bottom: 13px;
+  }
+  /*Testimonial end */
+  /* psd start  */
+  .psd {
+    margin: 20px 0;
+  }
+  .p_text p {
+    padding: 30px 15px 120px 17px;
+  }
+  .p_text button {
+    top: 209px;
+    right: 25px;
+  }
+  /* psd end */
+  /* about us start */
+  .a_text {
+    margin-bottom: 15px;
+  }
+  .c_h22 {
+    font-size: 20px;
+  }
+  .e_text {
+    margin-left: 13px;
+  }
+  .b_text {
+    margin-left: 27px;
+  }
+  .b_text p {
+    margin-right: 0;
+  }
+  .b_text2 {
+    margin-right: 12px !important;
+  }
+  .con_text {
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: 0;
+    text-align: center;
+  }
+  .cannect_text {
+    margin-left: 0px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .c_icon i {
+    padding-right: 10px;
+  }
+  .fb,
+  .pin,
+  .dr {
+    margin-right: 20px !important;
+  }
+  /* about us end */
+  /* footer start */
+  footer {
+    margin: 25px 0;
+  }
+  .f_text {
+    padding: 0 32px;
+    margin-bottom: 15px;
+    text-align: center;
+  }
+  .f_text p {
+    padding-right: 0;
+  }
+  .f_logo {
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 0;
+  }
+  /* footer end */
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -73,6 +167,87 @@
     margin-bottom: 30px;
   }
   /* my work end */
+  /*Testimonial start */
+  .t_text {
+    margin-bottom: 40px;
+  }
+  .t_icon {
+    margin-bottom: 2px;
+  }
+  .t_text p {
+    line-height: 24px;
+    margin-bottom: 10px !important;
+  }
+  .t_img {
+    margin-left: 0px;
+  }
+  .img_container {
+    margin-right: 0;
+  }
+  .cl_icon {
+    margin-left: 30%;
+    margin-bottom: 16px;
+  }
+  .img_group {
+    margin-bottom: 13px;
+  }
+  /*Testimonial end */
+  /* psd start  */
+  .psd {
+    margin: 20px 0;
+  }
+  .p_text p {
+    padding: 30px 15px 70px 17px;
+  }
+  .p_text button {
+    top: 137px;
+    right: 129px;
+  }
+  /* psd end */
+  /* about us start */
+  .a_text {
+    margin-bottom: 15px;
+  }
+  .c_h22 {
+    font-size: 20px;
+  }
+  .e_text {
+    margin-left: 13px;
+  }
+  .b_text {
+    margin-left: 27px;
+  }
+  .b_text p {
+    margin-right: 0;
+  }
+  .b_text2 {
+    margin-right: 12px !important;
+  }
+  .con_text {
+    margin-left: 0;
+  }
+  .cannect_text {
+    margin-left: 0px;
+    margin-top: 20px;
+  }
+  .pin {
+    margin-right: 30px !important;
+  }
+  /* about us end */
+  /* footer start */
+  footer {
+    margin: 25px 0;
+  }
+  .f_text {
+    margin-left: 35px;
+  }
+  .f_text p {
+    padding-right: 0;
+  }
+  .f_logo {
+    margin-left: 20px;
+  }
+  /* footer end */
 }
 
 /* Medium devices (tablets, 768px and up) */
@@ -96,12 +271,78 @@
   .c_prev {
     left: 590px;
   }
-  /* .w_img {
-    height: 374px;
-    width: 775px;
-    margin-bottom: 30px;
-  } */
   /* my work end */
+  /*Testimonial start */
+  .t_text {
+    margin-bottom: 40px;
+  }
+  .t_icon {
+    margin-bottom: 2px;
+  }
+  .t_text p {
+    line-height: 24px;
+    margin-bottom: 10px !important;
+  }
+  .t_img {
+    margin-left: 0px;
+  }
+  .img_container {
+    margin-left: 18%;
+  }
+  .cl_icon {
+    margin-left: 40%;
+    margin-bottom: 19px;
+  }
+  .img_group {
+    margin-bottom: 13px;
+  }
+  /*Testimonial end */
+  /* psd start  */
+  .psd {
+    margin: 20px 0;
+  }
+  .p_text p {
+    padding: 30px 35px 70px 47px;
+  }
+  .p_text button {
+    top: 114px;
+    right: 210px;
+  }
+  /* psd end */
+  /* about us start */
+  .a_text {
+    margin-bottom: 15px;
+  }
+  .c_h22 {
+    font-size: 20px;
+  }
+  .e_text {
+    margin-left: 13px;
+  }
+  .b_text {
+    margin-left: 0;
+  }
+  .b_text p {
+    margin-right: 0;
+  }
+  .b_text2 {
+    margin-right: 12px !important;
+  }
+  .con_text {
+    margin-left: 0;
+  }
+  .cannect_text {
+    margin-left: -2px;
+  }
+  /* about us end */
+  /* footer start */
+  .f_text {
+    margin-left: 35px;
+  }
+  .f_logo {
+    margin-left: 20px;
+  }
+  /* footer end */
 }
 
 /* Large devices (desktops, 992px and up) */
@@ -114,6 +355,59 @@
     left: 829px;
   }
   /* my work end */
+  /*Testimonial start */
+  .t_icon {
+    margin-bottom: 4px;
+  }
+  .t_text p {
+    line-height: 23px;
+    margin-top: 13px;
+  }
+  .t_img {
+    margin-left: -25px;
+  }
+  /*Testimonial end */
+  /* psd start */
+  .psd {
+    margin: 30px 0;
+  }
+  .p_text p {
+    padding: 30px 315px 30px 30px;
+    color: #363636;
+  }
+  .p_text button {
+    top: 35px;
+    right: 10px;
+  }
+  /* psd end */
+  /* about us start */
+  .a_text {
+    margin-bottom: 35px;
+  }
+  .e_text {
+    margin-left: 13px;
+  }
+  .b_text {
+    margin-left: 47px;
+  }
+  .b_text p {
+    margin-right: 0;
+  }
+  .b_text2 {
+    margin-right: 12px !important;
+  }
+  .con_text {
+    margin-left: 60px;
+  }
+  .cannect_text {
+    margin-left: 79px;
+  }
+  /* about us end */
+  /* footer start */
+  .f_logo {
+    margin-left: 0;
+  }
+  /* footer end */
 }
 
 /* x-Large devices (larger desktops, 1200px and up) */
@@ -123,6 +417,53 @@
     left: 1009px;
   }
   /* my work end */
+  /*Testimonial start */
+  .t_icon {
+    margin-bottom: 6px;
+  }
+  .t_text p {
+    line-height: 25px;
+  }
+  .t_img {
+    margin-left: 66px;
+  }
+  /*Testimonial end */
+  /* psd start */
+  .psd {
+    margin: 35px 0;
+  }
+  .p_text p {
+    padding: 30px 475px 40px 30px;
+    color: #363636;
+  }
+  .p_text button {
+    top: 37px;
+    right: 40px;
+  }
+  /* psd end */
+  /* about us start */
+  .c_text2 {
+    padding-right: 20px;
+  }
+  .e_text {
+    margin-left: 0;
+  }
+  .b_text {
+    margin-left: 37px;
+  }
+  .b_text p {
+    margin-right: 0;
+  }
+  .b_text2 {
+    margin-right: 12px !important;
+  }
+  .con_text {
+    margin-left: 70px;
+  }
+  .cannect_text {
+    margin-left: 42px;
+  }
+  /* about us end */
 }
 
 /* Extra Extra large devices (larger desktops, 1400px and up) */
