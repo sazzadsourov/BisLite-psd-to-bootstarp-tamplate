@@ -32,7 +32,6 @@ header {
   color: #000000 !important;
   padding: 10px 15px !important;
   border: 5px solid transparent;
-  transition: 0.3s;
 }
 .menu ul li:last-child a {
   margin-right: 0 !important;
